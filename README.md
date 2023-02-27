@@ -8,6 +8,7 @@
 )](https://wa.me/5585997875177)
 
 ![Leonardo Sousa GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoSSm&show_icons=true&theme=dark)
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=LeonardoSSm&layout=compact&theme=dark" />
 
 ### Tecnologias que uso:
 
