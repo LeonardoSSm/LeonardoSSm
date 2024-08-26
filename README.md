@@ -1,21 +1,12 @@
-### Olá! Eu sou o Leonardo Sousa 🤖
+# <samp>Leonardo Sousa</samp> <img src="https://github.com/LeonardoSSm/imagens/blob/main/robot.png" width="30px" height="30px">
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/leonardoSS2)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://instragram.com/leonardo_2s)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
-)](https://wa.me/5585997875177)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C&link=https://www.instagram.com/leonardo_2s)](https://www.instagram.com/leonardo_2s)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/leonardoSS2/)](https://www.linkedin.com/leonardoSS2/)
 
-![Leonardo Sousa GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoSSm&show_icons=true&theme=dark)
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=LeonardoSSm&layout=compact&theme=dark"/>
+## <samp>Hello World!</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px">
 
-### Tecnologias que uso:
+<samp>Eu sou Leonardo Sousa e um cidadão brasileiro. Atualmente atuando como FullStack Developer seguindo minha paixão de resolver problemas com a tecnologia, criando soluções para diversos cenarios, tudo baseado em lógica.
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</div></br>
-
+<samp>Estou me especializando em BackEnd com Java, além de cursar graduação em Analise e desenvolvimento de sistemas.
+    
 ### Alis volat propriis.
