@@ -8,5 +8,8 @@
 <samp>Eu sou Leonardo Sousa e um cidadão brasileiro. Atualmente atuando como FullStack Developer seguindo minha paixão de resolver problemas com a tecnologia, criando soluções para diversos cenarios, tudo baseado em lógica.
 
 <samp>Estou me especializando em BackEnd com Java, além de cursar graduação em Analise e desenvolvimento de sistemas.
+
+
+<samp> Minha vida academica - [Aqui](https://github.com/LeonardoSSm/list-of-courses-certifications) </samp>
     
 ### Alis volat propriis.
