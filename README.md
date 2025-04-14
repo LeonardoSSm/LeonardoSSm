@@ -1,4 +1,5 @@
-# <samp>Leonardo Sousa</samp> <img src="https://github.com/LeonardoSSm/imagens/blob/main/robot.png" width="30px" height="30px">
+;# <samp>Leonardo Sousa</samp> <img src="https://github.com/LeonardoSSm/imagens/blob/main/robot.png" width="30px" height="30px">
+<p align="center">Desenvolvedor backend apaixonado por tecnologia, código limpo e café ☕</p>
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C&link=https://www.instagram.com/leonardo_2s)](https://www.instagram.com/leonardo_2s)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/leonardoss2/)](https://www.linkedin.com/in/leonardoss2/)
