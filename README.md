@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=333f87&height=200&section=header&text=Hello,%20World!%20Eu%20sou%20Leonardo%20Sousa&fontSize=30&fontColor=ffffff"/>
 </p>
 
-<samp>Eu sou Leonardo Sousa e um cidadão brasileiro. Atualmente atuando como FullStack Developer seguindo minha paixão de resolver problemas com a tecnologia, criando soluções para diversos cenarios, tudo baseado em lógica.
+<p align="center">Eu sou Leonardo Sousa e um cidadão brasileiro. Atualmente atuando como FullStack Developer seguindo minha paixão de resolver problemas com a tecnologia, criando soluções para diversos cenarios, tudo baseado em lógica.</p>
 
-<samp>Estou me especializando em BackEnd com Java, além de cursar graduação em Analise e desenvolvimento de sistemas.
+<p align="center">Me especializando em BackEnd com Java, além ser formado em Analise e Desenvolvimento de Sistemas, estou cursando pós graduação em Engenharia de Software.</p>
 
 <br/>
 
