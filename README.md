@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0055&height=200&section=header&text=Hello,%20World!%20Eu%20sou%20Leonardo&fontSize=30&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=333f87&height=200&section=header&text=Hello,%20World!%20Eu%20sou%20Leonardo&fontSize=30&fontColor=ffffff"/>
 </p>
 ;# <samp>Leonardo Sousa</samp> <img src="https://github.com/LeonardoSSm/imagens/blob/main/robot.png" width="30px" height="30px">
 
