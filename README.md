@@ -36,7 +36,7 @@ B.S. in Information Systems. Postgraduate in Software Engineering.</p>
   <a href="https://www.instagram.com/leonardo_2s" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://discord.com/users/leonardoss" target="_blank">
+  <a href="https://discord.com/users/leonard0ssousa" target="_blank">
 </p>
 
 
